@@ -1,7 +1,7 @@
 let fs = require("fs")
 let handler = async(m, { conn, args, text, usedPrefix: _p, usedPrefix, command }) => {
 let vn = './media/bot.mp3'
-const estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5917611323-51921909260@g.us" } : {}) },
+const estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "51917611323-51921909260@g.us" } : {}) },
 message: { 
 orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'WhatsApp Bot Oficial', orderTitle: 'Bang', thumbnail: fs.readFileSync('./Menu2.jpg'), sellerJid: '0@s.whatsapp.net'    
 }}}
