@@ -1,9 +1,9 @@
-# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 🔥**
+# **🔥 𝗧𝗵𝗲 𝗦𝗵𝗮𝗱𝗼𝘄 𝗕𝗿𝗼𝗸𝗲𝗿𝘀 - 𝗕𝗼𝘁 🔥𝐔𝐧 𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭𝐬𝐢𝐭𝐨 𓃵**
 
 ## El Bot ya no recibira mas actualizaciones
 
 ### `NECESITAS AYUDA?, CONTACTAME`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/51921909260" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 ### `GRUPOS OFICIALES DEL BOT`
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/JlomZPEgo3bLmzjGUYPfyJ)
